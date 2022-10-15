@@ -1,2 +1,5 @@
-# sc-2022-siit
-Soft Computing 2022 - Softversko inženjerstvo i informacione tehnologije
+# sc-2022-siit  
+
+Repozitorijum kursa: **Soft Computing**  
+Smer: **Softversko inženjerstvo i informacione tehnologije**  
+Školska godina: **2022/2023**  
